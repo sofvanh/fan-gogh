@@ -1,23 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+import fan from './assets/fan.png'
+import skyline from './assets/skyline.png'
+import fanc from './assets/fan copy.png'
+import skylinec from './assets/skyline copy.png'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Fan Gogh - AI-generated impressionist art</h1>
+      <div className="flex-container">
+        <img src={fan} />
+        <img src={skyline} />
+        <img src={fanc} />
+        <img src={skylinec} />
+      </div>
     </div>
   );
 }

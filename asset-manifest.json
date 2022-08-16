@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fan-gogh/static/css/main.814a9240.css",
+    "main.js": "/fan-gogh/static/js/main.18edfe75.js",
+    "static/js/787.c464790f.chunk.js": "/fan-gogh/static/js/787.c464790f.chunk.js",
+    "static/media/house_claude_monet.png": "/fan-gogh/static/media/house_claude_monet.3b73c85ad5b21b361e18.png",
+    "static/media/view_from_mountain_paul_cezanne.png": "/fan-gogh/static/media/view_from_mountain_paul_cezanne.12bdc8b1ae59e30abf66.png",
+    "static/media/flower_garden_paul_cezanne.png": "/fan-gogh/static/media/flower_garden_paul_cezanne.edca78b2fbe1c6ce4fb3.png",
+    "static/media/town_square_paul_cezanne.png": "/fan-gogh/static/media/town_square_paul_cezanne.f2fd3a664297b8a9610e.png",
+    "static/media/eiffel_tower_claude_monet.png": "/fan-gogh/static/media/eiffel_tower_claude_monet.fe0491fd92a5ae8d9ade.png",
+    "static/media/fan.png": "/fan-gogh/static/media/fan.57859270538a4994e32a.png",
+    "static/media/shop_with_lamps_claude_monet.png": "/fan-gogh/static/media/shop_with_lamps_claude_monet.6500fc76bda9e5cf74de.png",
+    "static/media/skyline.png": "/fan-gogh/static/media/skyline.8697e6d6592d6dceea14.png",
+    "index.html": "/fan-gogh/index.html",
+    "main.814a9240.css.map": "/fan-gogh/static/css/main.814a9240.css.map",
+    "main.18edfe75.js.map": "/fan-gogh/static/js/main.18edfe75.js.map",
+    "787.c464790f.chunk.js.map": "/fan-gogh/static/js/787.c464790f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.814a9240.css",
+    "static/js/main.18edfe75.js"
+  ]
+}

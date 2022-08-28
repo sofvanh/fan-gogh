@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './App.css';
+import './Gallery.css';
 import { ReactComponent as CloseIcon } from './assets/icons/close.svg'
 
 function importAll(r) {

@@ -1,51 +1,15 @@
 import React, { useState } from 'react'
 import './App.css';
-import fan from './assets/fan.png'
-import skyline from './assets/skyline.png'
-import eiffel from './assets/eiffel_tower_claude_monet.png'
-import flower from './assets/flower_garden_paul_cezanne.png'
-import house from './assets/house_claude_monet.png'
-import shop from './assets/shop_with_lamps_claude_monet.png'
-import square from './assets/town_square_paul_cezanne.png'
-import view from './assets/view_from_mountain_paul_cezanne.png'
-
 import { ReactComponent as CloseIcon } from './assets/icons/close.svg'
 
+function importAll(r) {
+    let images = [];
+    r.keys().map((item, index) => { images.push(r(item)); });
+    return images;
+}
+
 const Gallery = () => {
-    let data = [
-        {
-            id: 1,
-            imgSrc: fan,
-        },
-        {
-            id: 2,
-            imgSrc: skyline,
-        },
-        {
-            id: 3,
-            imgSrc: view,
-        },
-        {
-            id: 4,
-            imgSrc: flower,
-        },
-        {
-            id: 5,
-            imgSrc: house,
-        },
-        {
-            id: 6,
-            imgSrc: shop,
-        },
-        {
-            id: 7,
-            imgSrc: square,
-        },
-        {
-            id: 8,
-            imgSrc: eiffel,
-        }
-    ]
+    let data = importAll(require.context('./assets/paintings'));
 
     const [model, setModel] = useState(false);
     const [tempImgSrc, setTempImgSrc] = useState('');
@@ -64,8 +28,8 @@ const Gallery = () => {
             <div className="gallery">
                 {data.map((item, index) => {
                     return (
-                        <div className="pic" key={index} onClick={() => getImg(item.imgSrc)}>
-                            <img src={item.imgSrc} style={{ width: '100%' }} />
+                        <div className="pic" key={index} onClick={() => getImg(item)}>
+                            <img src={item} style={{ width: '100%' }} />
                         </div>
                     )
                 })}

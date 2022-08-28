@@ -9,7 +9,9 @@ Live [here!](https://sofvanh.github.io/fan-gogh/)
 
 ## About
 
+**Work-in-progress!**
 A small side project to learn web dev, design, and art history, and to play around with making AI art.
+
 
 Credit:
 - [Code With Yd](https://www.youtube.com/watch?v=cDwa_JwuC-w) for responsive image gallery tutorial

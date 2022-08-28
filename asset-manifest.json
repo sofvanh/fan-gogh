@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fan-gogh/static/css/main.d84430ef.css",
-    "main.js": "/fan-gogh/static/js/main.57463398.js",
+    "main.js": "/fan-gogh/static/js/main.67bf458b.js",
     "static/js/787.c464790f.chunk.js": "/fan-gogh/static/js/787.c464790f.chunk.js",
     "static/media/house.png": "/fan-gogh/static/media/house.3b73c85ad5b21b361e18.png",
     "static/media/impressionist_oil_painting.png": "/fan-gogh/static/media/impressionist_oil_painting.ae1744b94d04a78d2eab.png",
@@ -20,11 +20,11 @@
     "index.html": "/fan-gogh/index.html",
     "static/media/close.svg": "/fan-gogh/static/media/close.97d4c0a10ac97607dc659ebfaacb9220.svg",
     "main.d84430ef.css.map": "/fan-gogh/static/css/main.d84430ef.css.map",
-    "main.57463398.js.map": "/fan-gogh/static/js/main.57463398.js.map",
+    "main.67bf458b.js.map": "/fan-gogh/static/js/main.67bf458b.js.map",
     "787.c464790f.chunk.js.map": "/fan-gogh/static/js/787.c464790f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d84430ef.css",
-    "static/js/main.57463398.js"
+    "static/js/main.67bf458b.js"
   ]
 }

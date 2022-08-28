@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/fan-gogh/static/css/main.814a9240.css",
-    "main.js": "/fan-gogh/static/js/main.18edfe75.js",
+    "main.css": "/fan-gogh/static/css/main.d84430ef.css",
+    "main.js": "/fan-gogh/static/js/main.57463398.js",
     "static/js/787.c464790f.chunk.js": "/fan-gogh/static/js/787.c464790f.chunk.js",
-    "static/media/house_claude_monet.png": "/fan-gogh/static/media/house_claude_monet.3b73c85ad5b21b361e18.png",
-    "static/media/view_from_mountain_paul_cezanne.png": "/fan-gogh/static/media/view_from_mountain_paul_cezanne.12bdc8b1ae59e30abf66.png",
-    "static/media/flower_garden_paul_cezanne.png": "/fan-gogh/static/media/flower_garden_paul_cezanne.edca78b2fbe1c6ce4fb3.png",
-    "static/media/town_square_paul_cezanne.png": "/fan-gogh/static/media/town_square_paul_cezanne.f2fd3a664297b8a9610e.png",
-    "static/media/eiffel_tower_claude_monet.png": "/fan-gogh/static/media/eiffel_tower_claude_monet.fe0491fd92a5ae8d9ade.png",
+    "static/media/house.png": "/fan-gogh/static/media/house.3b73c85ad5b21b361e18.png",
+    "static/media/impressionist_oil_painting.png": "/fan-gogh/static/media/impressionist_oil_painting.ae1744b94d04a78d2eab.png",
+    "static/media/ballerina_party.png": "/fan-gogh/static/media/ballerina_party.98a9560d606dd448bb7c.png",
+    "static/media/vase_of_lilies.png": "/fan-gogh/static/media/vase_of_lilies.c7ea4ab7f3ac29fbe8a6.png",
+    "static/media/black_beach_with_sharks.png": "/fan-gogh/static/media/black_beach_with_sharks.d92aa76f855af66ac83f.png",
+    "static/media/view_from_mountain.png": "/fan-gogh/static/media/view_from_mountain.12bdc8b1ae59e30abf66.png",
+    "static/media/castle_made_of_candles.png": "/fan-gogh/static/media/castle_made_of_candles.b773ef63aa38c02538b5.png",
+    "static/media/flower_garden.png": "/fan-gogh/static/media/flower_garden.edca78b2fbe1c6ce4fb3.png",
+    "static/media/town_square.png": "/fan-gogh/static/media/town_square.f2fd3a664297b8a9610e.png",
+    "static/media/eiffel_tower.png": "/fan-gogh/static/media/eiffel_tower.fe0491fd92a5ae8d9ade.png",
     "static/media/fan.png": "/fan-gogh/static/media/fan.57859270538a4994e32a.png",
-    "static/media/shop_with_lamps_claude_monet.png": "/fan-gogh/static/media/shop_with_lamps_claude_monet.6500fc76bda9e5cf74de.png",
+    "static/media/cacti.png": "/fan-gogh/static/media/cacti.2fb58071e4d87c1b9c43.png",
+    "static/media/shop_with_lamps.png": "/fan-gogh/static/media/shop_with_lamps.6500fc76bda9e5cf74de.png",
     "static/media/skyline.png": "/fan-gogh/static/media/skyline.8697e6d6592d6dceea14.png",
     "index.html": "/fan-gogh/index.html",
-    "main.814a9240.css.map": "/fan-gogh/static/css/main.814a9240.css.map",
-    "main.18edfe75.js.map": "/fan-gogh/static/js/main.18edfe75.js.map",
+    "static/media/close.svg": "/fan-gogh/static/media/close.97d4c0a10ac97607dc659ebfaacb9220.svg",
+    "main.d84430ef.css.map": "/fan-gogh/static/css/main.d84430ef.css.map",
+    "main.57463398.js.map": "/fan-gogh/static/js/main.57463398.js.map",
     "787.c464790f.chunk.js.map": "/fan-gogh/static/js/787.c464790f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.814a9240.css",
-    "static/js/main.18edfe75.js"
+    "static/css/main.d84430ef.css",
+    "static/js/main.57463398.js"
   ]
 }
